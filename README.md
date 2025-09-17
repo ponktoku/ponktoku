@@ -22,12 +22,16 @@ I love combining modern frameworks with a minimalist approach.
 - **Languages:** TypeScript, JavaScript
 - **Frameworks:** React, Next.js, Astro
 - **Styling:** Tailwind CSS
+- **ORM:** Prisma
+- **Deployment:** Vercel
+- **Miscellaneous:** 
 
-## 📚 Currently Exploring
+## 📚 Want To Explore
 
 - Expo / React Native
 - Vue.js
 - Go
+- .NET Core
 
 ## 🖥️ Featured Projects
 
